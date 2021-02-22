@@ -6,6 +6,7 @@
     box-sizing: border-box;
     margin-left: 15px;
     font-size:x-large;
+    color: #131918;
 
 }
 
@@ -23,6 +24,7 @@ img {
 
 #parent {
     display: flex;
+    align-items: center;
 }
 
 #text {
@@ -38,8 +40,5 @@ p {
     line-height: 35px;
 }
 
-#text span {
-    color: rebeccapurple
-}
 
 
